@@ -1,11 +1,11 @@
-# 📦 Streamlit App Starter Kit 
+Practice
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
 Description of the app ...
 
-## Demo App
+ML
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
 
